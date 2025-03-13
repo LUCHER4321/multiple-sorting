@@ -1,6 +1,6 @@
 {
   "name": "multiple-sorting-array",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/index.ts",
   "scripts": {
     "test": "jest"
@@ -15,9 +15,28 @@
     "ts-jest": "^29.2.6",
     "ts-node": "^10.9.2"
   },
+  "keywords": [
+    "sort",
+    "sorting",
+    "array",
+    "multiple",
+    "criteria",
+    "typescript",
+    "utility",
+    "library",
+    "order",
+    "sort-array",
+    "functional",
+    "generic",
+    "comparison",
+    "sort-by",
+    "sorting-algorithm",
+    "javascript",
+    "ts"
+  ],
   "repository": {
-    "type": "https://github.com/LUCHER4321/multiple-sorting.git",
-    "url": "git"
+    "type": "git",
+    "url": "https://github.com/LUCHER4321/multiple-sorting"
   },
   "author": "LUCHER4321"
 }
